@@ -32,13 +32,17 @@ This web application takes all transactions ands rounds them to the nearest poun
 EJS and bodyParser to achieve its results.
 
 <h1>GUIDE TO MAKE CODE WORK</h1>
-1.) Make sure to update the .env page with corresponding URLS/UIDS as you go along
-2.) Uncomment first section to create a savings list and update ACCOUNTURL in .env file, run code and press send to show result
+<ol>
+  <li>Make sure to update the .env page with corresponding URLS/UIDS as you go along</li>
+  <li>Uncomment first section to create a savings list and update ACCOUNTURL in .env file, run code and press send to show result</li>
+  <li>Comment section 1</li>
+  <li>Repeat above steps for section 2, 3 and 4(optional delete</li>
+  </ol>
+
 ![env](images/accountUID.PNG)
 ![snippetone](images/codesnippet1.PNG)
 ![result](images/result1.PNG)
-3.) Comment section 1
-4.) Repeat above steps for section 2, 3 and 4(optional delete)
+
 
 I have also provided an example.env file for you to follow the format for your own UID's/URL's
 ![snippetone](images/exampleEnd.PNG)
