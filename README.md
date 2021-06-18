@@ -45,7 +45,7 @@ EJS and bodyParser to achieve its results.
 
 
 I have also provided an example.env file for you to follow the format for your own UID's/URL's
-![snippetone](images/exampleEnd.PNG)
+![snippetone](images/exampleEnv.PNG)
 
 <h1>Author</h1>
 Ibrahim Akbar
