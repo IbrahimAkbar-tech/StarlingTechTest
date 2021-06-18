@@ -28,13 +28,12 @@ Read more page: Order to make the application work is listed below in the snippe
 
 
 <h1>Summary</h1>
-This web application takes all transactions ands rounds them to the nearest pound, this value is then transferred into a savings goal. The application uses Express, axios, request,
-EJS and bodyParser to achieve its results.
+This web application takes all transactions ands rounds them to the nearest pound, this value is then transferred into a savings goal. The application uses Express, axios, request, EJS and bodyParser to achieve its results.
 
 <h1>GUIDE TO MAKE CODE WORK</h1>
 <ol>
   <li>Make sure to update the .env page with corresponding URLS/UIDS as you go along</li>
-  <li>Uncomment first section to create a savings list and update ACCOUNTURL in .env file, run code and press send to show result</li>
+  <li>Uncomment first section to create a savings list and update .env file accordingly, run code and press send to show result</li>
   <li>Comment section 1</li>
   <li>Repeat above steps for section 2, 3 and 4(optional delete</li>
   </ol>
