@@ -2,6 +2,8 @@
 
 PLEASE MAKE SURE TO CHECK THE *GUIDE TO MAKE CODE WORK*
 
+FOR TESTING PURPOSES I WILL INCLUDE MY OWN .ENV FILE
+
 The application was built using HTML, Node.js, Express along with EJS(Backend). Most things are hardcoded just to make it easier to test.
 
 Landing page: Shows all data that is related to the account(s), account type, Savings List (if created), total saved in that savings list, outgoing transactions and the rounded up amount of Outgoing
