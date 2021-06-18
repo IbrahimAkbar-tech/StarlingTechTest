@@ -13,7 +13,7 @@ Example page: Displaying both landing page and backend logs of current savings l
 
 ![example](images/showAll.PNG)
 
-Read more page: Order to make the application work is listed below in the snippet of code, uncomment one by one with correct UID's for corresponding URL's and UID's.
+Code snippet Post: Order to make the application work is listed below in the snippet of code, uncomment one by one with correct UID's for corresponding URL's and UID's.
 
 ![order](images/postRequests.PNG)
 
