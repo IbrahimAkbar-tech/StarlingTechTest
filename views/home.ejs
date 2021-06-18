@@ -1,0 +1,15 @@
+<%- include("partial/header") -%>
+<form action="/" method="post">
+
+
+    <p>Account: <%=accountData%> </p>
+    <p>Account Type: <%=accountType%> </p>
+    <p>Savings List name: <%=saveListName%> </p>
+    <p>Total in <%=saveListName%> savings: <%=letTotalSavedGBP%> </p>
+    <p>Outgoing transactions: <%=moneyInPounds%> </p>
+    <p>Total to be saved: <%=saveGoals%> </p>
+
+    <button type="submit">Send</button>
+  </form>
+
+<%- include("partial/footer") -%>
