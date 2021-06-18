@@ -1,6 +1,6 @@
 # STARLING TECH TEST GRADUATE
 
-PLEASE MAKE SURE TO CHECK THE <GUIDE TO MAKE CODE WORK>
+PLEASE MAKE SURE TO CHECK THE *GUIDE TO MAKE CODE WORK*
 
 The application was built using HTML, Node.js, Express along with EJS(Backend). Most things are hardcoded just to make it easier to test.
 
@@ -31,7 +31,7 @@ Read more page: Order to make the application work is listed below in the snippe
 This web application takes all transactions ands rounds them to the nearest pound, this value is then transferred into a savings goal. The application uses Express, axios, request,
 EJS and bodyParser to achieve its results.
 
-<h1>GUIDE TO MAKE CODE WORK</h>
+<h1>GUIDE TO MAKE CODE WORK</h1>
 1.) Make sure to update the .env page with corresponding URLS/UIDS as you go along
 2.) Uncomment first section to create a savings list and update ACCOUNTURL in .env file, run code and press send to show result
 ![env](images/accountUID.PNG)
