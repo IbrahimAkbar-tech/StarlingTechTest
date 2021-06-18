@@ -34,8 +34,8 @@ This web application takes all transactions and rounds them to the nearest pound
 <ol>
   <li>Make sure to update the .env page with corresponding URLS/UIDS as you go along</li>
   <li>Uncomment first section to create a savings list and update .env file accordingly, run code and press send to show result</li>
-  <li>Comment out first section 1</li>
-  <li>Uncomment second section to create a transfer and update .env file accordingly (trasnferUID), run code and press send to show result</li>
+  <li>Comment out first section</li>
+  <li>Uncomment second section to create a transfer and update .env file accordingly (transferUID), run code and press send to show result</li>
   <li>Comment out second section</li>
   <li>Repeat above steps for section 3 and 4(optional delete)</li>
   </ol>
