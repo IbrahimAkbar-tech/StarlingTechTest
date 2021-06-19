@@ -7,8 +7,8 @@
 
  @output Shows customer accounts/account type, SavingLists (if any), total in savings currently, outgoing transaction(s) and rounded up feature "total to be saved"
 
- @Issues Seems as though all transactions are made on the same day and same time. This must be due to Auto-simulator that populated the Feed API with a set of results with the same date. Cannot test
- for different weeks.
+ @Issues Seems as though all transactions are made on the same day and same time. This must be due to Auto-simulator that populated the Feed API with a set of results with 
+ the same date. Cannot test for different weeks.
 
 */
 require('dotenv').config();
